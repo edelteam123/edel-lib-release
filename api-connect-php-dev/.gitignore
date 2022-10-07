@@ -1,0 +1,8 @@
+vendor/
+src/instruments.*
+src/mfinstruments.*
+src/logs.txt
+data_*
+src/Settings.ini
+src/composer.lock
+.vscode
